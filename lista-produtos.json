@@ -1,0 +1,165 @@
+[
+  {
+    "id": 1,
+    "img": [
+              "https://m.media-amazon.com/images/I/81sTK4zipDL._AC_SL1500_.jpg",
+              "https://m.media-amazon.com/images/I/71VbP-hRxzL._AC_SL1500_.jpg",
+              "https://m.media-amazon.com/images/I/51ZScIG5GiL._AC_.jpg",
+              "https://m.media-amazon.com/images/I/513UR8QOf3L._AC_.jpg"
+           ],
+    "nome": "Xiaomi Redmi Note 12 5G 128GB 4GB RAM",
+    "descricao": "Um ótimo celular para ligações e jogos",
+    "valorComDesconto": 989.90,
+    "valorSemDesconto": 1279.00
+  },
+
+  {
+    "id": 2,
+    "img": [
+              "https://images.kabum.com.br/produtos/fotos/sync_mirakl/506306/Ar-Condicionado-Janela-Springer-Midea-Eletr-nico-7500-Btus-110V-S-Frio-Qck078rb_1709228317_gg.jpg",
+              "https://images.kabum.com.br/produtos/fotos/sync_mirakl/506306/Ar-Condicionado-Janela-Springer-Midea-Eletr-nico-7500-Btus-110V-S-Frio-Qck078rb_1709228328_gg.jpg",
+              "https://images.kabum.com.br/produtos/fotos/sync_mirakl/506306/Ar-Condicionado-Janela-Springer-Midea-Eletr-nico-7500-Btus-110V-S-Frio-Qck078rb_1709228363_gg.jpg",
+              "https://sipolatti.vtexassets.com/arquivos/ids/204247-1200-1200?v=638355830499770000&width=1200&height=1200&aspect=true"
+           ],
+    "nome": "Ar Condicionado Janela Springer Midea 7500 BTU/h",
+    "descricao": "Aproveite o ar geladinho para fugir do calor de Teresina",
+    "valorComDesconto": 1779.00,
+    "valorSemDesconto": 2201.44
+  },
+
+  {
+    "id": 3,
+    "img": [
+              "https://m.media-amazon.com/images/I/41qM+itS5SL._AC_SL1080_.jpg",
+              "https://m.media-amazon.com/images/I/41mVso6DShL._AC_SL1080_.jpg",
+              "https://m.media-amazon.com/images/I/41sOQKrkMTL._AC_SL1080_.jpg",
+              "https://m.media-amazon.com/images/I/51906AI9B+L._AC_SL1080_.jpg"
+           ],
+    "nome": "Fone de Ouvido JBL Tune 520BT - Preto",
+    "descricao": "Ouça na melhor qualidade que a JBL pode oferecer nesse fone",
+    "valorComDesconto": 221.63,
+    "valorSemDesconto": 233.59
+  },
+    
+  {
+    "id": 4,
+    "img": [
+              "https://images-americanas.b2w.io/produtos/7261042313/imagens/travesseiro-58x38cm-viscoelastico-nasa-master-comfort/7261042321_1_xlarge.jpg",
+              "https://images-americanas.b2w.io/produtos/7261042313/imagens/travesseiro-58x38cm-viscoelastico-nasa-master-comfort/7261042321_3_xlarge.jpg",
+              "https://images-americanas.b2w.io/produtos/7261042313/imagens/travesseiro-58x38cm-viscoelastico-nasa-master-comfort/7261042321_5_xlarge.jpg",
+              "https://down-br.img.susercontent.com/file/8f9ed594516971f94102c32013cceddf"
+           ],
+    "nome": "Travesseiro Nasa Master Comfort",
+    "descricao": "Conforto e maciez, sinta-se como se estivesse flutuando no espaço!",
+    "valorComDesconto": 39.90,
+    "valorSemDesconto": 49.90
+  },  
+
+  {
+    "id": 5,
+    "img": [
+             "https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SL1000_.jpg",
+             "https://m.media-amazon.com/images/I/51EkhvTiC+L._AC_SL1000_.jpg",
+             "https://m.media-amazon.com/images/I/617-HLllfZL._AC_SL1000_.jpg"
+           ],
+    "nome": "Echo Dot 5ª geração | Cor Preta",
+    "descricao": "Aproveite suas músicas e aproveite as funções da Alexa",
+    "valorComDesconto": 386.10,
+    "valorSemDesconto": 429.00
+  },
+    
+  {
+    "id": 6,
+    "img": [
+             "https://images-americanas.b2w.io/produtos/7420668040/imagens/conjunto-de-mesa-sala-de-jantar-miami-com-4-cadeiras-trieste-suede-1-20m-cedro-off-white-areia-dobue/7420668040_1_xlarge.jpg",
+             "https://images-americanas.b2w.io/produtos/7420668040/imagens/conjunto-de-mesa-sala-de-jantar-miami-com-4-cadeiras-trieste-suede-1-20m-cedro-off-white-areia-dobue/7420668040_2_xlarge.jpg",
+             "https://images-americanas.b2w.io/produtos/7420668040/imagens/conjunto-de-mesa-sala-de-jantar-miami-com-4-cadeiras-trieste-suede-1-20m-cedro-off-white-areia-dobue/7420668040_5_xlarge.jpg"
+            ],
+    "nome": "Conjunto de Mesa Sala de Jantar com 4 Cadeiras",
+    "descricao": "Perfeito para compor sua casa e acomodar as visitas",
+    "valorComDesconto": 859.00,
+    "valorSemDesconto": 1010.59
+  },
+    
+  {
+    "id": 7,
+    "img": [
+              "https://imgs.casasbahia.com.br/1562814055/1xg.jpg",
+              "https://imgs.casasbahia.com.br/55004719/1xg.jpg",
+              "https://imgs.casasbahia.com.br/55004719/3xg.jpg",
+              "https://imgs.casasbahia.com.br/55004719/7xg.jpg"
+           ],
+    "nome": "Aspirador de Pó Vonder 127V 1200W",
+    "descricao": "Aspire todo tipo pó da sua casa e livre-se da sujeira!",
+    "valorComDesconto": 289.90,
+    "valorSemDesconto": 349.00
+  },
+    
+  {
+    "id": 8,
+    "img": [
+            "https://down-br.img.susercontent.com/file/3bbc548ab9d719fcedc92aa465791169",
+            "https://a-static.mlcdn.com.br/1500x1500/kit-creatina-250g-monohidratada-creatina-250g-creapure-growth-growth-supplements/suplementosaz/8267891533/447f6778c2727252091c79df2860f344.jpeg",
+            "https://imgs.extra.com.br/1545616587/1xg.jpg?imwidth=500"
+           ],
+    "nome": "Creatina Monohidratada Creapure Growth 250g",
+    "descricao": "Um dos suplementos mais populares do mercado",
+    "valorComDesconto": 103.99,
+    "valorSemDesconto": 153.50
+  },
+    
+  {
+    "id": 9,
+    "img": [
+            "https://imgs.casasbahia.com.br/13658325/1xg.jpg",
+            "https://imgs.casasbahia.com.br/13658325/2xg.jpg",
+            "https://imgs.casasbahia.com.br/1560920201/2xg.jpg",
+            "https://imgs.casasbahia.com.br/13658325/3xg.jpg"
+           ],
+    "nome": "Rack Madetec Lisboa(136cm de Largura)",
+    "descricao": "Aguenta TV até 50 polegadas, apoie as coisas e mantenha sua casa organizada",
+    "valorComDesconto": 299.00,
+    "valorSemDesconto": 379.00
+  },
+    
+  {
+    "id": 10,
+    "img": [
+            "https://imgs.casasbahia.com.br/55064345/1g.jpg",
+            "https://imgs.casasbahia.com.br/55064346/2g.jpg",
+            "https://imgs.casasbahia.com.br/55064346/6g.jpg",
+            "https://imgs.casasbahia.com.br/55064346/9g.jpg"
+           ],
+    "nome": "Lavadora de Roupas Brastemp - 13kg",
+    "descricao": "Lave suas roupas e deixa-as como novas!",
+    "valorComDesconto": 1999.00,
+    "valorSemDesconto": 2329.00
+  },
+    
+  {
+    "id": 11,
+    "img": [
+            "https://cdn.newlooktime.com.br/media/catalog/product/cache/1/image/6984c3feca2e4514f6dbf5d03fa86be6/t/g/tg30014_1.jpg",
+            "https://cdn.newlooktime.com.br/media/catalog/product/cache/1/image/6984c3feca2e4514f6dbf5d03fa86be6/t/g/tg30014-01_1.jpg",
+            "https://cdn.newlooktime.com.br/media/catalog/product/cache/1/image/6984c3feca2e4514f6dbf5d03fa86be6/t/g/tg30014-02_1.jpg"
+           ],
+    "nome": "Relógio Tuguir Digital TG125",
+    "descricao": "Veja as horas, um relógio prático, elegante e minimalista, além de resistente a água (5 ATM)",
+    "valorComDesconto": 79.90,
+    "valorSemDesconto": 132.67
+  },
+    
+  {
+    "id": 12,
+    "img": [
+            "https://carrefourbr.vtexassets.com/arquivos/ids/123836535-1280-auto?v=638253647162870000&width=1280&height=auto&aspect=true",
+            "https://carrefourbr.vtexassets.com/arquivos/ids/123836539-1280-auto?v=638253647206500000&width=1280&height=auto&aspect=true",
+            "https://carrefourbr.vtexassets.com/arquivos/ids/123836554-1280-auto?v=638253647359730000&width=1280&height=auto&aspect=true",
+            "https://carrefourbr.vtexassets.com/arquivos/ids/123836549-1280-auto?v=638253647314000000&width=1280&height=auto&aspect=true"
+            ],
+    "nome": "Tv Smart Philips 32″",
+    "descricao": "Com resolução HDR para assistir as novelas e filmes",
+    "valorComDesconto": 1049.00,
+    "valorSemDesconto": 1221.11
+  }
+]
